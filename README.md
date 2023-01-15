@@ -1,5 +1,5 @@
 # <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Shuki Asaga
- 🔭 I’m currently working at [Ubiq Inc.](https://ubiq-world.com/) and interning at a mega-venture. (I can't tell you the company's name because the company has instructed me not to.)
+ 🔭 I’m currently working at [Ubiq Inc.](https://ubiq-world.com/) and interning at a company
 
 🌱 I'm majoring in CS in [WASEDA University.](https://www.waseda.jp/top/en/)
 
