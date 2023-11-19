@@ -1,5 +1,8 @@
 # <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Shuki Asaga
-🚀 I worked at [Ubiq Inc.](https://ubiq-world.com/) and interned at Anker.
+🚀 I worked at 
+- [Ubiq](https://ubiq-world.com/)
+- [Anker](https://www.ankerjapan.com/)
+- [Shinonome](https://shinonome.com/)
 
 🎓 I'm majoring in CS in [WASEDA University.](https://www.waseda.jp/top/en/)
 
