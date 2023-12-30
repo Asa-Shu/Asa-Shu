@@ -1,4 +1,10 @@
 # <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Shuki Asaga
+
+✨ Now
+- President of [IDEA](https://idea-net.site/)
+- CTO of [Michibiku Group](https://michibikugroup.co.jp/)
+
+ 
 🚀 I worked at 
 - [Ubiq](https://ubiq-world.com/)
 - [Anker](https://www.ankerjapan.com/)
