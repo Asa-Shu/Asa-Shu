@@ -10,7 +10,6 @@
 - [Michibiku Group](https://michibikugroup.co.jp/) ex-CTO
 - [Ubiq](https://ubiq-world.com/)
 - [Anker](https://www.ankerjapan.com/)
-- [Shinonome](https://shinonome.com/)
 
 🎓 I'm majoring in CS in [WASEDA University.](https://www.waseda.jp/top/en/)
 
@@ -20,6 +19,5 @@
 
 ### Where to find me
 <a href="https://github.com/Asa-Shu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://qiita.com/re_shu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
   
 [Curriculum vitae](https://github.com/Asa-Shu/Curriculum-Vitae)
